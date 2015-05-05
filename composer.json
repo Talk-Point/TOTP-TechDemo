@@ -1,0 +1,12 @@
+{
+    "name": "konstantinstoldt/test",
+    "require": {
+        "spomky-labs/otphp": "~4.0"
+    },
+    "authors": [
+        {
+            "name": "Konstantin Stoldt",
+            "email": "git@thecodeengine.com"
+        }
+    ]
+}
